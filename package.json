@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Baelyk/node-mud/issues"
   },
-  "homepage": "https://github.com/Baelyk/node-mud#readme"
+  "homepage": "https://github.com/Baelyk/node-mud#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs-jetpack": "^1.2.0",
+    "socket.io": "^2.0.4",
+    "winston": "^3.0.0-rc1"
+  }
 }
