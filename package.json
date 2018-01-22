@@ -1,0 +1,25 @@
+{
+  "name": "node-mud",
+  "version": "0.1.0",
+  "description": "A multi-user dungeon engine written in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baelyk/node-mud.git"
+  },
+  "keywords": [
+    "MUD",
+    "multi",
+    "user",
+    "dungeon"
+  ],
+  "author": "Baelyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Baelyk/node-mud/issues"
+  },
+  "homepage": "https://github.com/Baelyk/node-mud#readme"
+}
