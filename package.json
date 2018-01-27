@@ -25,6 +25,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "fs-jetpack": "^1.2.0",
+    "js-yaml": "^3.10.0",
     "socket.io": "^2.0.4",
     "winston": "^3.0.0-rc1"
   }

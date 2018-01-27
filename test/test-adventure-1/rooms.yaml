@@ -1,0 +1,12 @@
+- name: Main Room
+  description: "The main room.\nIt is a peaceful and calming environment."
+  exits:
+    - name: Hallway
+      key: h
+      room: 1
+- name: Hallway
+  description: "A hallway connecting the main room to, well, a long hallway."
+  exits:
+    - name: Main Room
+      key: m
+      room: 0
